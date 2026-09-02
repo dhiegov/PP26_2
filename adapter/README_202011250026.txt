@@ -1,0 +1,15 @@
+
+Versão do compilador Java utilizado: openjdk 21.0.11 2026-04-21
+
+IDE: nenhuma, compilei manualmente utilizando `javac` e executei com `java`
+
+Sistema Operacional utilizado: Linux Debian 13 (stable)
+
+Biblioteca criada: Calculadora_202011250026.jar
+
+Descrição de cada um dos métodos da classe Calculadora_202011250026:
+
+    int soma(int a, int b)
+    int sub(int a, int b) // retorna a - b
+    int mult(int a, int b)
+    int div(int a, int b) // retorna a / b
