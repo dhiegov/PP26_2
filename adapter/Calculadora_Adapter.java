@@ -1,5 +1,4 @@
 
-import Calculadora_202321250008;
 
 public class Calculadora_Adapter
 extends Calculadora_202321250008

@@ -1,12 +1,12 @@
 
 import java.util.Scanner;
-import bibego.Calculadora_202011250026;
+//import bibego.Calculadora_202011250026;
 
 public class Cliente_202011250026
 {
     static public void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        Calculadora_202011250026 calc = new Calculadora_202011250026();
+        ICalculadora_Dhiego calc = new Calculadora_Adapter();
         
         System.out.println("Calculadora básica do Dhiego\n");
         System.out.print("Operando a: ");
